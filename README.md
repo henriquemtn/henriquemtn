@@ -1,7 +1,5 @@
 ### Olá, eu sou o Henrique 👋
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estudando Typescript
 - ⚡ To sempre inventando algo para fazer e aprimorar minhas skills
 
 
