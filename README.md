@@ -1,7 +1,5 @@
 ### Olá, eu sou o Henrique 👋
 
-- ⚡ To sempre inventando algo para fazer e aprimorar minhas skills
-
 
   ##
  
