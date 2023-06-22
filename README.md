@@ -1,7 +1,7 @@
 ### Olá, eu sou o Henrique 👋
 
 
-  # React, JavaScript e Java.
+React, JavaScript e Java.
  
 <div> 
   <a href="https://instagram.com/henriquemtn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
