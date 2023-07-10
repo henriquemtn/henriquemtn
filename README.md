@@ -32,12 +32,11 @@ Hello there!! I am Henrique Silveira :wave:😎
     
 My main knowledge in technologies is centered around **Javascript**, **Typescript**, **React** and **SQL**. I am also learning **Angular**
 
- 
-Also technologies I am excited to study more about: **Rust**, **Ruby**, **Docker** and **Kubernetes**.
+Also technologies I am excited to study more about: **Rust**, **Python**, **Springboot** and **Kotlin**.
 
-My main skills include Object Oriented Programming and Data Structures & Algorithms knowledge. 
+My preferred language currently is **React**, using components to create web applications.
 
-I am currently building projects as a _Full Stack Developer_ for the Poinge Developers freelance program. 
+I'm currently building personal projects to improve my portfolio, I intend to create web applications with a focus on social networks and product management.
 
 </details>
 
