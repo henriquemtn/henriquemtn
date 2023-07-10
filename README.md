@@ -32,9 +32,7 @@ Hello there!! I am Henrique Silveira :wave:😎
     
 My main knowledge in technologies is centered around **Javascript**, **Typescript**, **React** and **SQL**. I am also learning **Angular**
 
-Also technologies I am excited to study more about: **Rust**, **Python**, **Springboot** and **Kotlin**.
-
-My preferred language currently is **React**, using components to create web applications.
+Also technologies I am excited to study more about: **Rust**, **Kotlin** and **Python**.
 
 I'm currently building personal projects to improve my portfolio, I intend to create web applications with a focus on social networks and product management.
 
