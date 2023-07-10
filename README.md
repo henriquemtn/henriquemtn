@@ -1,14 +1,50 @@
-### Hi there, I'm Henrique! 👋
+<h1 align="center"> Henrique Silveira </h1>
 
-#### Conhecimento nas linguagens:
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+    
+<div align="center">
+<b>Software Engineer🎓 | React Developer✨ | Games enthusiast🎮</b>
+<br>
+<br>
+
+<blockquote>
+    <p><i>
+        Always looking to improve my skills, knowledge and reasoning as a developer.<br>
+ Click the "About me" button to learn more! 🌀
+    </i></p>
+</blockquote>
+</div>
+
+<details closed>
+<summary>About me 👈👀</summary>
+
+---
+
+
+<div align="right" style="margin:auto">
+     <a href="https://github.com/henriquemtn">
+        <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemtn&hide=html&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&theme=highcontrast&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
+    </a>
+</div>
+
+
+Hello there!! I am Henrique Silveira :wave:😎
+    
+My main knowledge in technologies is centered around **Javascript**, **Typescript**, **React** and **SQL**. I am also learning **Angular**
+
  
-<div> 
-  <a href="https://instagram.com/henriquemtn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henriquemartinsilveira2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-silveira-555341186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Also technologies I am excited to study more about: **Rust**, **Ruby**, **Docker** and **Kubernetes**.
+
+My main skills include Object Oriented Programming and Data Structures & Algorithms knowledge. 
+
+I am currently building projects as a _Full Stack Developer_ for the Poinge Developers freelance program. 
+
+</details>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemtn/)
+
 </div>
