@@ -35,7 +35,7 @@ My main knowledge in technologies is centered around **Javascript**, **Typescrip
 Also technologies I am excited to study more about: **Rust**, **Kotlin** and **Python**.
 
 I'm currently building personal projects to improve my portfolio, I intend to create web applications with a focus on social networks, interface with data management
- and product management.
+ and product management.✨
 
 </details>
 
