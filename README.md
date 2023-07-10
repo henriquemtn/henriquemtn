@@ -22,7 +22,7 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/henriquemtn">
-        <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemtn&hide=html&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&theme=highcontrast&custom_title=My%20favorite%20languages"
+        <img width="325em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemtn&hide=html&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&theme=highcontrast&custom_title=My%20favorite%20languages"
        alt="Most used languages" align="right">
     </a>
 </div>
