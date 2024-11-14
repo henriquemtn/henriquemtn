@@ -7,4 +7,4 @@ Software engineer with 2+ years of experience.  Worked for innovative startups, 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,js,ts,nextjs,react,tailwind,py,django,express,nodejs)](https://skillicons.dev)
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=henriquemtn&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=henriquemtn&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
