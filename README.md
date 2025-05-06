@@ -1,5 +1,3 @@
-[![Header](https://github.com/henriquemtn/henriquemtn/blob/main/banner.png?raw=true "Header")](https://github.com/henriquemtn)
-
 ## 👋 Hello! 
 Software engineer with 2+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
