@@ -1,5 +1,11 @@
-## 👋 Hello! 
-Software engineer with 2+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+## hey!
 
-## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,ts,react,py,java)](https://skillicons.dev)
+> swe and enthusiast about the edge tech on the web 👨🏻‍💻✨
+
+- currently working with next.js, typescript, tanstack query, python and more...
+- i like creating products, helping people and always learning is my way of life.
+- in my free time I learn unreal engine with c++ and blueprints, I love playing games and I want to one day have my own game
+
+> [!TIP]
+>
+> here you find my repositories, feel free to take a peek:
