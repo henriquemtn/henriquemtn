@@ -1,11 +1,18 @@
-## hey!
+## hi!
 
-> swe and enthusiast about the edge tech on the web 👨🏻‍💻✨
+> software engineer at [@sportbase](https://sportbase.com.br/)
 
-- currently working with next.js, typescript, tanstack query, python and more...
-- i like creating products, helping people and always learning is my way of life.
-- in my free time I learn unreal engine with c++ and blueprints, I love playing games and I want to one day have my own game
+i build scalable, efficient and user-focused applications.
 
-> [!TIP]
->
-> here you find my repositories, feel free to take a peek:
+working mostly with `typescript`, `next.js`, `python`, `django` & `go`  
+also dealing with `aws`, `docker` and whatever it takes to ship reliably  
+
+i work across the stack — shipping features end-to-end, from backend services to frontend, focused on performance, simplicity and good ux.
+
+in my free time, i enjoy:
+- nerd stuff like anime and games with friends
+- building random stuff that may or may not work  
+
+---
+
+> “No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio-termo. Ou você faz uma coisa bem-feita ou não faz.” — Ayrton Senna
