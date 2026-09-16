@@ -1,6 +1,6 @@
 ## hi!
 
-> software engineer at [@sportbase](https://sportbase.com.br/)
+> software engineer
 
 i build scalable, efficient and user-focused applications.
 
